@@ -1,5 +1,5 @@
 // Make connection
-const socket = io.connect('http://localhost:5000');
+const socket = io.connect('https://virtmeetchat.herokuapp.com/');
 
 // Query DOM
 let message = document.getElementById('message'),
