@@ -17,8 +17,6 @@ app.get('/', function (req, res) {
   res.sendFile(__dirname + '/public/index.html');
 });
 
- 
-
 // Socket setup & pass server
 
 io.on('connection', (socket) => {
