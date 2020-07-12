@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&display=swap" rel="stylesheet">
+  <script src="/socket.io/socket.io.js"></script>
+ 
+  <title>Live Chat</title>
+</head>
+<body>
+  <h1 id="chat-title" >Live Chat: No Login Required</h1>
+
+  <div id="live-chat">
+    <h2>Virtual Meetup Live Chat</h2>
+    <div id="chat-window">
+        <div id="output"></div>
+        <div id="feedback"></div>
+    </div>
+    <input id="handle" type="text" placeholder="Username" />
+    <input id="message" type="text" placeholder="Type Message Here" />
+    <button id="send">Send</button>
+</div>
+
+</body>
+
+<script src="/chat.js"></script>
+</html>
