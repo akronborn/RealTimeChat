@@ -1,5 +1,5 @@
 body{
-  font-family: 'Satisfy', cursive;;
+  font-family: 'Satisfy', cursive;
   background-color: black;
 }
 
@@ -9,6 +9,7 @@ body{
 #chat-title {
   text-align: center;
   color: white;
+  font-family: 'Special Elite', cursive;
 }
 
 h2{
@@ -25,7 +26,8 @@ h2{
   border: 1px solid #96c9f8;
   box-shadow: 1px 3px 5px rgba(0,0,0,0.05);
   border-radius: 2px;
-  font-family: 'Satisfy', cursive;;
+  font-family: 'Satisfy', cursive;
+   
   background-color: #96c9f8;
   text-align: center;
   }
@@ -34,7 +36,7 @@ h2{
   height: 400px;
   overflow: auto;
   background: #f9f9f9;
-  font-size: 32px;
+  font-size: 25px;
     }
 
 #output p{
@@ -83,5 +85,5 @@ button{
   width: 100%;
   border-radius: 0 0 2px 2px;
   font-family: 'Satisfy', cursive;;
-  text-shadow: 2px 2px 4px #000000;
+   text-shadow: 2px 2px 4px #000000;
 }
