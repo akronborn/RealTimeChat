@@ -1,5 +1,5 @@
 body{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Bangers', cursive;
   background-color: black;
 }
 
@@ -24,7 +24,7 @@ h2{
   border: 1px solid #96c9f8;
   box-shadow: 1px 3px 5px rgba(0,0,0,0.05);
   border-radius: 2px;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Bangers', cursive;
   background-color: #96c9f8;
   text-align: center;
   }
@@ -67,7 +67,7 @@ input{
   width: 100%;
   background: #fff;
   border-bottom: 1px solid #eee;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Bangers', cursive;
   font-size: 16px;
 }
 
@@ -79,6 +79,6 @@ button{
   padding: 12px 0;
   width: 100%;
   border-radius: 0 0 2px 2px;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Bangers', cursive;
   text-shadow: 2px 2px 4px #000000;
 }
