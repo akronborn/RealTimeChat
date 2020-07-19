@@ -1,10 +1,10 @@
 body{
-  font-family: 'Caveat', cursive;
+  font-family: 'Satisfy', cursive;;
   background-color: black;
 }
 
 #handle, #message {
-  font-size: 30px;
+  font-size: 25px;
 }
 #chat-title {
   text-align: center;
@@ -12,7 +12,7 @@ body{
 }
 
 h2{
-  font-size: 30px;
+  font-size: 25px;
   padding: 10px 20px;
   color:white;
   text-shadow: 2px 2px 4px #000000;
@@ -25,7 +25,7 @@ h2{
   border: 1px solid #96c9f8;
   box-shadow: 1px 3px 5px rgba(0,0,0,0.05);
   border-radius: 2px;
-  font-family: 'Caveat', cursive;
+  font-family: 'Satisfy', cursive;;
   background-color: #96c9f8;
   text-align: center;
   }
@@ -35,13 +35,14 @@ h2{
   overflow: auto;
   background: #f9f9f9;
   font-size: 32px;
-  }
+    }
 
 #output p{
   padding: 14px 0px;
   margin: 0 20px;
   border-bottom: 1px solid #e9e9e9;
   color: #555;
+  font-family: 'Special Elite', cursive;
 }
 
 #feedback p{
@@ -69,7 +70,7 @@ input{
   width: 100%;
   background: #fff;
   border-bottom: 1px solid #eee;
-  font-family: 'Caveat', cursive;
+  font-family: 'Special Elite', cursive;
   font-size: 16px;
 }
 
@@ -81,6 +82,6 @@ button{
   padding: 12px 0;
   width: 100%;
   border-radius: 0 0 2px 2px;
-  font-family: 'Caveat', cursive;
+  font-family: 'Satisfy', cursive;;
   text-shadow: 2px 2px 4px #000000;
 }
